@@ -1,19 +1,37 @@
-ML Homework
-===============
-This is the home page containing results and codes for quiz 3 and 4.
+Making a table
+==============
 
-Quiz3
-----------------
-A code for mean function and readme are created.
+This shows you how to make a table -- if you only want to make a list see :ref:`making-a-list`.
+
+==================   ============
+Name                 Age
+==================   ============
+John D Hunter        40
+Cast of Thousands    41
+And Still More       42
+==================   ============
+
+.. _making-links:
+
+Making links
+============
+
+It is easy to make a link to `yahoo <http://yahoo.com>`_ or to some
+section inside this document (see :ref:`making-a-table`) or another
+document.
+
+You can also reference classes, modules, functions, etc that are
+documented using the sphinx `autodoc
+<http://sphinx.pocoo.org/ext/autodoc.html>`_ facilites.  For example,
+see the module :mod:`matplotlib.backend_bases` documentation, or the
+class :class:`~matplotlib.backend_bases.LocationEvent`, or the method
+:meth:`~matplotlib.backend_bases.FigureCanvasBase.mpl_connect`.
 
 
- * Item Foo
- * Item Bar
- mean_
- .. math::
 
-    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
+.. _cheatsheet-literal:
 
-Inline Markup
--------------
-Words !
+This file
+=========
+
+.. literalinclude:: cheatsheet.rst
