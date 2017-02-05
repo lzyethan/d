@@ -6,7 +6,7 @@ This is the results and codes for quiz 3
    :maxdepth: 2
    :numbered: 2
 
-   :ref:`Stuff about Linking Pages <mean>`
+.. _linking-pages:mean
 
 
 .. image:: _static/Desert.jpg
