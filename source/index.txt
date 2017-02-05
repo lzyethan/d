@@ -8,6 +8,8 @@ This is the results and codes for quiz 3
 
    mean::mean
 
-.. image:: Desert.jpg
+.. _mean:
+mean_
+:ref:`mean`
    
 
