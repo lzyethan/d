@@ -1,19 +1,16 @@
-.. Note documentation master file, created by
-   sphinx-quickstart on Sat Feb 04 22:25:04 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+ML Homework
+===============
+This is the home page containing results and codes for quiz 3 and 4.
 
-Welcome to Note's documentation!
-================================
-.. toctree::
-   :maxdepth: 1
-
-    mean
+Quiz3
+----------------
+A code for mean function and readme are created.
 
 
-Indices and tables
-==================
+ * Item Foo
+ * Item Bar
+ .. _a link: http://google.com/
 
-* :mean: mean
-* :ref:`mean`
-* :ref:`search`
+Inline Markup
+-------------
+Words !
