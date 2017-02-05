@@ -16,7 +16,7 @@ And Still More       42
 Making links
 ============
 
-It is easy to make a link to `yahoo <http://yahoo.com>`_ or to some
+It is easy to make a link to `yahoo <mean>`_ or to some
 section inside this document (see :ref:`making-a-table`) or another
 document.
 
