@@ -1,10 +1,11 @@
 Quiz 3
 ============
 This is the results and codes for quiz 3
-:math:`\underline{x}=[  x_{1}, ...,  x_{n}]^{T}`
+
 
 .. toctree::
    :maxdepth: 2
+   :math:`\underline{x}=[  x_{1}, ...,  x_{n}]^{T}`
 
    mean
 
