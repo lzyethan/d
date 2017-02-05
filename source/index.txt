@@ -6,14 +6,11 @@
 Welcome to Note's documentation!
 ================================
 
-.. math:: mean = sum /length
-   mean
-
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
+* :mean:`mean`
+* :.. math:: mean = sum /length:`modindex`
 * :ref:`search`
