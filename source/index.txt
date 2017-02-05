@@ -6,12 +6,8 @@
 Welcome to Note's documentation!
 ================================
 
-.. toctree::
-   :maxdepth: 2
-   
-   hello
-   hi
-   three
+.. math:: mean = sum /length
+   mean
 
 
 
