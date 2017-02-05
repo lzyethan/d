@@ -5,12 +5,15 @@
 
 Welcome to Note's documentation!
 ================================
+.. toctree::
+   :maxdepth: 1
 
+    mean
 
 
 Indices and tables
 ==================
 
-* :mean:`mean`
-* :.. math:: mean = sum /length:`modindex`
+* :mean: mean
+* :ref:`mean`
 * :ref:`search`
