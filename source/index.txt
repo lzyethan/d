@@ -7,5 +7,7 @@ This is the results and codes for quiz 3
    :numbered: 2
 
    mean::mean
+
+.. image:: Desert.jpg
    
 
