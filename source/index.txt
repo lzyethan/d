@@ -6,10 +6,8 @@ This is the results and codes for quiz 3
    :maxdepth: 2
    :numbered: 2
 
-   mean::mean
+   mean
 
-.. _mean:
-mean_
-:ref:`mean`
+.. image:: _static/Desert.jpg
    
 
