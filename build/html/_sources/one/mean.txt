@@ -1,0 +1,36 @@
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy import sparse
+
+## The function of mean
+def funcMean (dateset, axi=None):
+    rows = dateset.shape[0]
+    cols = dateset.shape[1]
+    nums = rows*cols
+    rowMean = np.empty((0))
+    colMean = np.empty((0))
+    allMean = 0
+    returns = 0
+    # Calculate mean for all values
+    if axi is None:
+        allMean = dateset.sum()/nums
+        returns = allMean
+    else: 
+        # Calcualte mean for each rows
+        if axi ==0:
+            for x in range(0, rows):
+                i = sum (dateset[x,:])/cols
+                rowMean = np.append(rowMean, i)
+                returns =rowMean
+            
+        # Calculate mean for each column
+        elif axi ==1:
+            for x in range(0, cols):
+                i = sum (dateset[:,x])/rows
+                colMean = np.append(colMean, i)
+                returns =colMean                     
+    return returns
+
+## Test the function
+eye = np.eye(4)
+a = funcMean(eye,1)

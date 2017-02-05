@@ -1,19 +1,23 @@
-ML Homework
-===============
-This is the home page containing results and codes for quiz 3 and 4.
+Quiz 3
+============
+This is the results and codes for quiz 3
 
-Quiz3
-----------------
-A code for mean function and readme are created.
+.. toctree::
+   :maxdepth: 2
+   :numbered: 2
+
+   01_readme
+   02_function
+
+Quiz 4
+============
+This is the results and codes for quiz 4
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   one/index
+   two/mean
 
 
- * Item Foo
- * Item Bar
-`Internal and External links`_
- .. math::
-
-    n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
-
-Inline Markup
--------------
-Words !
