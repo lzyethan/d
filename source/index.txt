@@ -9,7 +9,7 @@ A code for mean function and readme are created.
 
  * Item Foo
  * Item Bar
-`Internal and External links`_
+ mean_
  .. math::
 
     n_{\mathrm{offset}} = \sum_{k=0}^{N-1} s_k n_k
