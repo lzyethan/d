@@ -6,6 +6,6 @@ This is the results and codes for quiz 3
    :maxdepth: 2
    :numbered: 2
 
-   mean
-   02_function
+   mean::mean
+   
 
